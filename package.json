@@ -1,0 +1,11 @@
+{
+  "name": "random-quotes-generator",
+  "version": "1.0.0",
+  "description": "This is a simple node application for generating random quotes per second.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Rifat Islam",
+  "license": "ISC"
+}
